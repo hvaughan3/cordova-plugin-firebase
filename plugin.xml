@@ -110,8 +110,6 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework custom="true" src="src/ios/Firebase/RemoteConfig/FirebaseRemoteConfig.framework" />
 		<framework custom="true" src="src/ios/Firebase/RemoteConfig/FirebaseABTesting.framework" />
 		<framework custom="true" src="src/ios/GoogleTagManager/GoogleTagManager.framework" />
-    
-    <framework src="GoogleTagManager" type="podspec" spec="~> 7.0"/>
 	</platform>
 
 	<platform name="browser">
